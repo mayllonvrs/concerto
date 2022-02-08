@@ -1,11 +1,9 @@
 node_modules
-
 package-lock.json
-
 vendor/composer/autoload_files.php
-
 vendor/composer/autoload_psr4.php
-
 vendor/composer/autoload_static.php
-
 vendor/composer/installed.php
+.env
+.env.backup
+/public/storage
